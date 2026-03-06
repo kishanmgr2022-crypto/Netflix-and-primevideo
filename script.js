@@ -1,0 +1,1 @@
+alert(" 🍿This is a normal netflix and prime video plan table made by only using html and a little bit of css and javascript by Kishan Anand😉 ")
